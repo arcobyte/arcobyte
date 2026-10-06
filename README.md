@@ -17,8 +17,8 @@
 <div align="center">
   <br>
     <a href="https://discord.com/users/261208333279690752">discord</a> · 
-    <a href="https://baju.dev">website</a> ·
-    <a href="mailto:contact@baju.dev">email</a>
+    <a href="https://github.com/arcobyte"><s>website</s></a> ·
+    <a href="mailto:">email</a>
   <br><br><br>
 
   ───── λ ─────
